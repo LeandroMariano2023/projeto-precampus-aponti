@@ -1,19 +1,55 @@
-# Projeto Integrador: Campus
->[!NOTE]
->Este projeto é uma atividade dada pela Aponti, da **Bolsa Futuro Digital**;
+# 🚀 PreCampus (Projeto Integrador)
 
-## Informações
+> [!NOTE]
+> Projeto desenvolvido durante o bootcamp **Bolsa Futuro Digital** (Aponti/Softex).
 
-o Projeto Campus propõe o desenvolvimento de uma aplicação web votada para o setorde educação. Ele propõe conectar escolas, faculdades, etc. com estudantes. 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Alunos que estão perdido na sua carreira, podem se conectar na plataforma e achar o que é ideal para ele. As universidades, por outro lado, se ajustam com os parâmetros dado pelos estudantes, encaixando-se no mercado e sendo uma escolha melhor.
+## 📖 Sobre o Projeto
+O **PreCampus** é uma aplicação web focada no setor educacional, criada para conectar **estudantes** indecisos sobre sua carreira com **instituições de ensino** (Escolas, Universidades) de forma inteligente.
 
-## Funcionalidades
+O objetivo é criar um "match" perfeito: alunos encontram a formação ideal baseada em seus perfis, e as universidades alcançam os candidatos certos para suas vagas.
 
-Na plataforma, existe-se duas personas: alunos e universidades, cursos, etc. Então segue o que cada persona vai possuir:
+---
 
-### Aluno:
-1. Fazer login, preencher formulário sobre o aluno (idade, nome, endereço, preferências, etc.), procurar eventos, se inscrever em eventos, personalizar perfil, e analisar perfis de cada universidade.
+## ⚙️ Funcionalidades
 
-### Universidade: 
-2. Fazer login, preencher formulário sobre a universidade (nome, endereço, cursos possuídos, etc.), criar eventos, personalizar perfil
+O sistema possui controle de acesso para dois perfis principais:
+
+### 👨‍🎓 Para Alunos
+- [x] **Cadastro e Perfil:** Criação de conta com dados pessoais e preferências de estudo.
+- [x] **Busca Inteligente:** Filtragem de instituições e cursos.
+- [x] **Eventos:** Inscrição e visualização de eventos acadêmicos.
+- [x] **Dashboard:** Visão geral de inscrições e recomendações.
+
+### 🏛️ Para Instituições (Universidades/Escolas)
+- [x] **Gestão de Perfil:** Cadastro de informações institucionais, fotos e cursos.
+- [x] **Criação de Eventos:** Ferramenta para divulgar feiras e vestibulares.
+- [x] **Analytics:** Visualização do engajamento dos estudantes (em desenvolvimento).
+
+
+
+## 🛠️ Tecnologias Utilizadas
+- **Front-end:** React.js (Vite)
+- **Estilização:** Tailwind CSS
+- **Controle de Versão:** Git / GitHub
+- **Metodologia:** Scrum (Equipe de 11 integrantes)
+
+---
+
+## 🚀 Como rodar o projeto
+
+```bash
+# 1. Clone o repositório
+git clone [https://github.com/LeandroMariano2023/NOME-DO-REPO.git](https://github.com/LeandroMariano2023/NOME-DO-REPO.git)
+
+# 2. Entre na pasta do projeto
+cd NOME-DO-REPO
+
+# 3. Instale as dependências
+npm install
+
+# 4. Rode o servidor de desenvolvimento
+npm run dev
