@@ -48,6 +48,23 @@ git clone [https://github.com/LeandroMariano2023/NOME-DO-REPO.git](https://githu
 # 2. Entre na pasta do projeto
 cd NOME-DO-REPO
 
+
+
+## 👥 Autor
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/leandro-mariano-carmo-da-silva">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  &nbsp;
+  <a href="mailto:leogooc@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
+
+<p align="center">
+  Desenvolvido por <strong>Leandro Mariano</strong>
+</p>
 # 3. Instale as dependências
 npm install
 
